@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnohat.cc%2Ff%2Fwoman-programmer-doing-her-job-on-the-laptop-free-vector%2F5aac3bc5f52a4e80800f-201909180042.html&psig=AOvVaw20qg6jnHaHYEvishuaCvC2&ust=1697736391450000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDhjZePgIIDFQAAAAAdAAAAABAZ" alt="komal7141" /> </p>
+<p align="right"> <img src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2016/02/Blog-cover-Woman-developer.png" alt="komal7141" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal7141&label=Profile%20views&color=0e75b6&style=flat" alt="komal7141" /> </p>
 
