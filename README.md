@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p align="right"> <img width="400" src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2016/02/Blog-cover-Woman-developer.png" alt="komal7141" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal7141&label=Profile%20views&color=0e75b6&style=flat" alt="komal7141" /> </p>
 
