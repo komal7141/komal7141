@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komal7141&show_icons=true&locale=en" alt="komal7141" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal7141&" alt="komal7141" /></p>
+
+
+[![An image of @komal7141's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/komal7141)](https://holopin.io/@komal7141)
