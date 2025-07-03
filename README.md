@@ -63,13 +63,7 @@
 
 ---
 
-### 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komal7141&theme=darkhub" alt="Trophies" />
-</p>
-
----
 
 ### 🎖️ Holopin Badges
 
