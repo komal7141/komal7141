@@ -15,6 +15,17 @@
 ---
 
 
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/komal-sharma-2791a5227/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+
+</p>
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
